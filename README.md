@@ -46,18 +46,47 @@ Here is what the current Reactor Standalone desktop app user interface looks lik
 
 The new JSON-based Reactor atom package files will allow you to easily install:
 
-- Effects Templates
-- Macros
-- DCTLs
+Content:
+- Macros .setting
+- DCTLs .dctl
 - LUTS
-- Fuses
-- Fonts
-- Example Comps
-- Custom PathMaps
-- Custom Variable Maps
-- Custom Toolbars
-- Custom Guide Grids
-- fu/zfu file based Menus/Hotkeys/Events/Actions
+- Audio
+- Movies
+- RAW Video Formats
+- Images / Image Sequences
+- 3D Geometry
+- Point Clouds
+- Camera Tracking Data
+- ST Map Warping Templates
+- Roto Shape Data
+- Resolve:
+	- Projects .dra, .drp
+	- Timelines .drt
+	- Bins .drb
+	- Grades .drx
+- Fusion:
+	- Composites .comp
+	- Custom PathMaps
+	- Custom Variable Maps
+	- Custom Toolbars
+	- Custom Guide Grids
+	- Confg Files .fu, .zfu based Menus/Hotkeys/Events/Actions
+	- Fusion Render Manager Queues
+
+Mograph:
+- Effects Templates .drfx, .setting
+- OGraf .json
+- Lottie .lottie
+- Fonts .ttf, e5c.
+- JSON .json, .jsonc
+- Spreadsheets .csv, .tsv, .xls, etc.
+
+Plugins:
+- Fuses .fuse
+- FusionSDK C+ .plugin
+- OpenFX C++ Plugin Bundle
+- Workflow Integrations / Deliver Page Exporters
+- VST Audio Plugin .vst
 
 ## Why is this Reactor migration to the web even required?
 
