@@ -16,7 +16,7 @@ Additionally, over the last year and a bit Reactor's core repository management 
 
 ## Concept
 
-The working concept today with the new Reactor Anywhere repo, is to build the next generation of web-browser session operated Reactor tools with responsive, slick, well thought out user interfaces that respond to the active device you are viewing the web app.
+The working concept today with the new Reactor Anywhere repo, is to build the next generation of web-browser session operated Reactor tools with responsive, slick, well thought out user interfaces that react automatically to the active device you are using to view the Reactor web app.
 
 This app redesign process will allow the end user to entirely skip the need to install a Reactor Standalone desktop application locally on their laptop or workstation. And it further builds on the base 2018 version of Reactor that we all know and love. That original edition is today known colloquially as "Reactor Classic", as it uses a "Reactor.lua" file that requires LuaJIT scripting capability to exist in the host Resolve/Fusion DCC application...
 
