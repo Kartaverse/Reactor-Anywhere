@@ -18,7 +18,7 @@ Additionally, over the last year and a bit Reactor's core repository management 
 
 The working concept today with the new Reactor Anywhere repo, is to build the next generation of web-browser session operated Reactor tools with responsive, slick, well thought out user interfaces that react automatically to the active device you are using to view the Reactor web app.
 
-This app redesign process will allow the end user to entirely skip the need to install a Reactor Standalone desktop application locally on their laptop or workstation. And it further builds on the base 2018 version of Reactor that we all know and love. That original edition is today known colloquially as "Reactor Classic", as it uses a "Reactor.lua" file that requires LuaJIT scripting capability to exist in the host Resolve/Fusion DCC application...
+This app redesign process will allow the end user to entirely skip the need to install a [Reactor Standalone](https://github.com/Kartaverse/Reactor-Standalone) desktop application locally on their laptop or workstation. And it further builds on the base 2018 version of Reactor that we all know and love. That original edition is today known colloquially as "Reactor Classic", as it uses a "[Reactor.lua](https://gitlab.com/WeSuckLess/Reactor/-/blob/master/System/Reactor.lua?ref_type=heads)" file and the BMD “UI Manager” API that both require “advanced” LuaJIT scripting capabilities to exist in the host Resolve/Fusion DCC application...
 
 ![Resolve Free v21.1 Note](static/img/The-Wizard-Of-Oz-The-Great-Oz-Has-Spoken.jpg)
 
