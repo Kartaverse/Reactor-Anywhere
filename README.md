@@ -69,7 +69,7 @@ Content:
 	- Custom PathMaps
 	- Custom Variable Maps
 	- Custom Toolbars
-	- Custom Guide Grids
+	- Custom Guide Grids .guide
 	- Confg Files .fu, .zfu based Menus/Hotkeys/Events/Actions
 	- Fusion Render Manager Queues
 
@@ -77,7 +77,7 @@ Mograph:
 - Effects Templates .drfx, .setting
 - OGraf .json
 - Lottie .lottie
-- Fonts .ttf, e5c.
+- Fonts .ttf, etc…
 - JSON .json, .jsonc
 - Spreadsheets .csv, .tsv, .xls, etc.
 
