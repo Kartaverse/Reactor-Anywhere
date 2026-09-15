@@ -28,7 +28,7 @@ With Reactor Anywhere you will be able to run the Reactor WebUI on an iPad's Saf
 
 ![Resolve on iPad](static/img/Resolve-on-iPad.jpg)
 
-A special Reactor Anywhere compatible version of the "KickAss Shaderz for iPad" atom package is also being prepared. This will help to bring the classic "KAS shaders" over to tablet based artists. It is something that will be optimized to support the use of the Resolve Studio for iPad's (WIP) Fusion page environment.
+A special Reactor Anywhere compatible version of the "KickAss Shaderz for iPad" atom package is also being prepared. This will help to bring the classic "[KAS shaders](https://kartaverse.github.io/Reactor-Docs/#/com.wesuckless.KickAssShaderZ?id=kickass-shaderz)" over to tablet based artists. It is something that will be optimized to support the use of the Resolve Studio for iPad's (WIP) Fusion page environment.
 
 # What will the new Reactor WebUI it look like?
 
