@@ -16,7 +16,7 @@ Additionally, over the last year and a bit, Reactor's core repository management
 [![Watch the video](https://img.youtube.com/vi/mklCsf8yOUk/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLVDcRvd92hcgtYFgiiJtWUWEKJH0Op8W9)
 (Click to play the YouTube Video)
 
-## The Reactor Web App Concept and why it's Needed
+## The Reactor Web App Concept and why it's Probably Needed ASAP
 
 The concept behind the new Reactor Anywhere repo effort is to create the next generation of web-browser session-operated Reactor tools with responsive, slick, well-thought-out user interfaces that react automatically to the active device used to view the Reactor web app.
 
@@ -25,7 +25,6 @@ This app redesign process will allow the end user to entirely skip the need to i
 That original WSL Reactor edition is today known colloquially as "Reactor Classic", as it uses a [Reactor.lua](https://gitlab.com/WeSuckLess/Reactor/-/blob/master/System/Reactor.lua?ref_type=heads) file and the BMD UI Manager API that both require “advanced” LuaJIT scripting capabilities to exist in the host Resolve Studio / Fusion Studio DCC application.
 
 This advanced scripting support was previously a feature in the Freemium Fusion Free v7 to v9.0.2, and Resolve Free v15 to v19.0.3 programs. 
-
 
 ## What will the new Reactor WebUI look like?
 
