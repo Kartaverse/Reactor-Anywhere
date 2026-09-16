@@ -32,7 +32,7 @@ With the upcoming Reactor Anywhere release, it will feel a lot like a supercharg
 
 We want Reactor Anywhere to set a newly improved standard of running smooth-as-butter. That is the major goal for the web-hosted experience, as you navigate your way across the full Reactor user interface.
 
-We plan to take the best parts of the Reactor Classic/Reactor Standaline user interface elements, and carry that forward with the help of modern HTML5/Javascript/REST based technology. The working concept is to be able to deliver what is called a "Single-File Web App" to the Reactor end user, as well. This is also known in other circles as a "Standalone HTML" setup.
+We plan to take the best parts of the Reactor Classic / Reactor Standalone user interface elements and carry them forward with modern HTML5/Javascript/REST based technology. The working concept is to also deliver what is called a "Single-File Web App" for the Reactor end user to have direct access to. Web designers tend to call this approach a "Standalone HTML" setup.
 
 Here is what the current Reactor Standalone desktop app user interface looks like for reference: 
 
@@ -40,7 +40,7 @@ Here is what the current Reactor Standalone desktop app user interface looks lik
 
 ## Resolve Studio for iPad Compatible
 
-With Reactor Anywhere, you will be able to run the Reactor WebUI on an iPad's Safari or Chrome browser. You can download your favourite packaged content. Then the Files app will allow you to install the Atom packaged content that makes sense to use with [Resolve Studio for iPad](https://apps.apple.com/us/app/davinci-resolve-for-ipad/id1581363826). Now, how cool is that?
+With Reactor Anywhere, you will be able to run the Reactor WebUI on an iPad's Safari or Chrome web browser. You can download your favourite packaged content. Then the Files app will allow you to install the Atom packaged content that makes sense to use with [Resolve Studio for iPad](https://apps.apple.com/us/app/davinci-resolve-for-ipad/id1581363826). Now, how cool is that?
 
 ![Resolve on iPad](static/img/Resolve-on-iPad.jpg)
 
