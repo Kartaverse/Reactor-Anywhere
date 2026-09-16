@@ -2,10 +2,12 @@
 
 # Reactor Anywhere&trade; v5.0
 
-> Reactor Roadmap Draft 1 (2026-09-15)  
+> Reactor Roadmap Draft 2 (2026-09-16)  
 > Written by: [Andrew Hazelden](mailto:andrew@andrewhazelden.com)  
 
-What would it look like if you could have the identical “Reactor Package Manager” user experience but access it purely via a web browser session that still retained the best parts of the Reactor app-like user interface? A design concept emerged for the next evolution of the WSL Fusion Community based [Reactor project](https://gitlab.com/WeSuckLess/Reactor).
+What would it look like if you could have the identical “Reactor Package Manager” user experience but access it purely via a web browser session that still retained the best parts of the Reactor app-like user interface? A design concept emerged for the next evolution of the WSL Fusion Community-based [Reactor project](https://gitlab.com/WeSuckLess/Reactor).
+
+## Overview
 
 Reactor staff work hard every day in our long-term quest to fully support the ~500K plus active users of the Reactor Package Manager and its included content and learning resources. At the moment, that means supporting the two unique software interfaces used via [Reactor Classic](https://gitlab.com/WeSuckLess/Reactor) / [Reactor Standalone](https://github.com/Kartaverse/Reactor-Standalone). 
 
@@ -44,7 +46,9 @@ With Reactor Anywhere, you will be able to run the Reactor WebUI on an iPad's Sa
 
 ![Resolve on iPad](static/img/Resolve-on-iPad.jpg)
 
-A special Reactor Anywhere compatible version of the "KickAss Shaderz for iPad" atom package is also being prepared. This will help to bring the classic "[KAS shaders](https://kartaverse.github.io/Reactor-Docs/#/com.wesuckless.KickAssShaderZ?id=kickass-shaderz)" over to tablet-based artists. It will even support the "Resolve Studio for iPad" (WIP) Fusion page environment.
+A special Reactor Anywhere compatible version of the "[KAS shaders](https://kartaverse.github.io/Reactor-Docs/#/com.wesuckless.KickAssShaderZ?id=kickass-shaderz)" atom package is also being prepared so it can run in a modified form on "Resolve Studio v21 for iPad". This finally brings the classic material library to tablet-based 3D artists.
+
+![KickAssShaderZ on iPad](static/img/KickAssShaderZ_on_iPad.jpg)
 
 ## What Atom Content Will Reactor Anywhere Support Initially?
 
