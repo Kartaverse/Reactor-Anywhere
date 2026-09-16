@@ -94,6 +94,6 @@ Plugins:
 
 ## Why is this Reactor migration to the web even required?
 
-BMD has made it clear at [Resolve v21.1](https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c8) in the release notes literal "Notes" section that 3rd-party developers should respect the core tenets of BMD's Freemium/Paid business model. We are still processing the meaning of this and how to adjust for that. Stay tuned.
+BMD has made it clear at [Resolve Free v21.1](https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c8) in the release notes literal "Notes" section that 3rd-party developers should respect the core tenets of BMD's Freemium/Paid business model. We are still processing the meaning of this and how to adjust for that. Stay tuned.
 
 ![Resolve Free v21.1 Note](static/img/The-Wizard-Of-Oz-The-Great-Oz-Has-Spoken.jpg)
