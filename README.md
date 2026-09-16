@@ -5,7 +5,7 @@
 > Reactor Roadmap Draft 2 (2026-09-16)  
 > Written by: [Andrew Hazelden](mailto:andrew@andrewhazelden.com)  
 
-What would it look like if you could have the identical “Reactor Package Manager” user experience but access it purely via a web browser session that still retained the best parts of the Reactor app-like user interface? A design concept emerged for the next evolution of the WSL Fusion Community-based [Reactor project](https://gitlab.com/WeSuckLess/Reactor).
+What would it look like if you could have the identical “Reactor Package Manager” user experience but access it purely via a web browser hosted [Progressive Web App (PWA)](https://en.wikipedia.org/wiki/Progressive_web_app) session that still retained the best parts of the Reactor app-like user interface? A design concept emerged for the next evolution of the WSL Fusion Community-based [Reactor project](https://gitlab.com/WeSuckLess/Reactor).
 
 ## Overview
 
