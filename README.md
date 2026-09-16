@@ -99,7 +99,7 @@ BMD has made it clear at [Resolve v21.1](https://www.blackmagicdesign.com/suppor
 
 In my view, a package manager in this environment is aimed at onboarding and helping the initial user base of new users. Hopefully they like the experience and stick around to grow into the next generation of indie VFX artists, then eventually become full-time pros over several years.
 
-The WeSuckLess&trade; developers, meaning specifically the two-person team behind the Reactor core project, Andrew and SecondMan, want to be good corporate citizens in the BMD community. So in good faith, we're biting the bullet and will have to "tow that BMD line", to a certain degree, in solidarity with the mothership at BMD SG. Yesh. Really... WTF man, is this world coming to. 🙈🙊🙉
+The WeSuckLess&trade; developers, meaning specifically the two-person team behind the Reactor core project, Andrew and SecondMan, want to be good corporate citizens in the BMD community. So in good faith, we're biting the bullet and will have to "tow that BMD line", to a certain degree, in solidarity with the mothership at BMD SG. Yesh. Really... WTF is this world coming to? It's literally breaking at the seams. 🙈🙊🙉
 
 ## What happened to BMD and its decade-long post-production software product tiers?
 
