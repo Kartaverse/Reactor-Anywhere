@@ -7,18 +7,18 @@
 
 What would it look like if you could have the identical “Reactor Package Manager” user experience but access it purely via a web browser session? After the literal shock, awe (and honestly, sheer horror) that was IBC 2026's BMD product launches: A design concept emerged for the next evolution of the WSL Fusion Community based [Reactor project](https://gitlab.com/WeSuckLess/Reactor).
 
-Reactor staff work hard, every day, in our long-term quest to fully support the ~500K plus active users of the Reactor Package Manager and its included content and learning resources. At the moment, that means supporting the two unique software interfaces used via [Reactor Classic](https://gitlab.com/WeSuckLess/Reactor) / [Reactor Standalone](https://github.com/Kartaverse/Reactor-Standalone). 
+Reactor staff work hard every day in our long-term quest to fully support the ~500K plus active users of the Reactor Package Manager and its included content and learning resources. At the moment, that means supporting the two unique software interfaces used via [Reactor Classic](https://gitlab.com/WeSuckLess/Reactor) / [Reactor Standalone](https://github.com/Kartaverse/Reactor-Standalone). 
 
 We continuously put our best efforts and ideas into action with the Reactor project today, tomorrow, [the day-after-tomorrow](https://www.youtube.com/watch?v=HUBDFoMNXzA), and beyond, by delivering the "extended" Fusion community-made content to the web in new ways. This requires us to keep moving forward, adopt new Reactor application designs, and roll out ever-improving download mechanisms.
 
 Additionally, over the last year and a bit, Reactor's core repository management functionality expanded to work with the latest Resolve/Fusion release. We added the capacity to serve broader creative software spaces like [Assimilate Scratch and LiveFX](https://gitlab.com/WeSuckLess/Reactor-for-Assimilate), [OpenFX](https://gitlab.com/WeSuckLess/Reactor-for-OpenFX), [JangaFX](https://gitlab.com/WeSuckLess/Reactor-for-JangaFX), [SideFX Houdini](https://gitlab.com/WeSuckLess/Reactor-for-Houdini), [LightWave](https://gitlab.com/WeSuckLess/Reactor-for-LightWave), and even for VFX/XR/Media production [Pipelines](https://gitlab.com/WeSuckLess/Reactor-for-Pipelines), too.
 
 [![Watch the video](https://img.youtube.com/vi/mklCsf8yOUk/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLVDcRvd92hcgtYFgiiJtWUWEKJH0Op8W9)
-(Click to play the Youtube Video)
+(Click to play the YouTube Video)
 
 ## The Reactor Web App Concept and why it's Needed
 
-The working concept today with the new Reactor Anywhere repo is to build the next generation of web-browser session-operated Reactor tools with responsive, slick, well-thought-out user interfaces that react automatically to the active device you are using to view the Reactor web app.
+The concept behind the new Reactor Anywhere repo effort is to create the next generation of web-browser session-operated Reactor tools with responsive, slick, well-thought-out user interfaces that react automatically to the active device used to view the Reactor web app.
 
 This app redesign process will allow the end user to entirely skip the need to install a [Reactor Standalone](https://github.com/Kartaverse/Reactor-Standalone) desktop application locally on their laptop or workstation. And it further builds on the base 2018 version of Reactor that we all know and love. 
 
@@ -95,11 +95,11 @@ Plugins:
 
 ## Why is this Reactor migration to the web even required?
 
-BMD has made it clear at [Resolve v21.1](https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c8) that 3rd party developers should respect the core tenets of BMD's Freemium business model wishes.
+BMD has made it clear at [Resolve v21.1](https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c8) that 3rd-party developers should respect the core tenets of BMD's Freemium/Paid business model. That effectively means we (the Reactor project) need to consider scaling back the use of even LuaJIT advanced scripting, UI Manager, Python scripting, PySide, and similar functionality in the Reactor Package Manager's own GUI, in separate atom packages, etc.
 
-That in effect, means we (the Reactor project) need to immediately and permanently stop trying to use Python scripting, PySide, or even LuaJIT advanced scripting functionality in the Reactor Package Manager's own GUI, as the toolset is aimed at onboarding and helping the Resolve Free / Fusion page user base of new users and indie VFX artists.
+In my view, a package manager in this environment is aimed at onboarding and helping the initial user base of new users. Hopefully they like the experience and stick around to grow into the next generation of indie VFX artists, then eventually become full-time pros over several years.
 
-The WeSuckLess&trade; developers, meaning specifically the two-person team behind the Reactor core project, Andrew and SecondMan, want to be good corporate citizens in the BMD community. So in good faith, we're biting-the-bullet, and are going to have to "tow that BMD line" to a certain degree, in solidarity with the mothership at BMD SG. Yesh. WTF man. 🙈🙊🙉
+The WeSuckLess&trade; developers, meaning specifically the two-person team behind the Reactor core project, Andrew and SecondMan, want to be good corporate citizens in the BMD community. So in good faith, we're biting the bullet and will have to "tow that BMD line", to a certain degree, in solidarity with the mothership at BMD SG. Yesh. Really... WTF man, is this world coming to. 🙈🙊🙉
 
 ## What happened to BMD and its decade-long post-production software product tiers?
 
@@ -117,7 +117,7 @@ Yes. Maybe. It's early days for sure, though.
 
 With the new releases shipped at IBC 2026, BMD Resolve Studio v21.1 could be considered an AI-powered DCC environment that works with media formats. That AI tech "lens" helps to redefine what it means to be an artist (or even potentially a faceless YouTube video maker).
 
-This Resolve Studio v21.1 integrated MCP approach operates with a live remote internet socket that receives and sends messages via a native Resolve [MCP](https://en.wikipedia.org/wiki/List_of_Tron_(franchise)_characters#Master_Control_Program)... oops that was Tron MCP... I meant an Anthropic [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) interface. You also get a bonus of 20+ GB of AI models to download on the side, too..
+This Resolve Studio v21.1 integrated MCP approach operates with a live remote internet socket that receives and sends messages via a native Resolve [MCP](https://en.wikipedia.org/wiki/List_of_Tron_(franchise)_characters#Master_Control_Program)... oops, that was Tron MCP... I meant an Anthropic [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) interface. You also get a bonus of 20+ GB of AI models to download on the side, too.
 
 BMD spent big 💰💰💰 on new ML-driven R&D in Resolve Studio v21.x so users have 150+ pages of novel AI-driven effects, and more. The rapid arrival of a combination of AI video editing/effects, AI-generated audio effects and narration, AI-transcribed closed captions, and AI-controllable compositing / mograph nodal workflows.
 
