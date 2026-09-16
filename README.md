@@ -11,7 +11,7 @@ Reactor staff work hard, every day, in our long-term quest to fully support the 
 
 We continuously put our best efforts and ideas into action with the Reactor project today, tomorrow, [the day-after-tomorrow](https://www.youtube.com/watch?v=HUBDFoMNXzA), and beyond, by delivering the "extended" Fusion community-made content to the web in new ways. This requires us to keep moving forward, adopt new Reactor application designs, and roll out ever-improving download mechanisms.
 
-Additionally, over the last year and a bit, Reactor's core repository management functionality expanded to work with the latest Resolve/Fusion release. We added the capacity to serve broader creative software spaces like Assimilate Scratch and LiveFX, OpenFX, JangaFX, SideFX Houdini, and LightWave.
+Additionally, over the last year and a bit, Reactor's core repository management functionality expanded to work with the latest Resolve/Fusion release. We added the capacity to serve broader creative software spaces like [Assimilate Scratch and LiveFX](https://gitlab.com/WeSuckLess/Reactor-for-Assimilate), [OpenFX](https://gitlab.com/WeSuckLess/Reactor-for-OpenFX), [JangaFX](https://gitlab.com/WeSuckLess/Reactor-for-JangaFX), [SideFX Houdini](https://gitlab.com/WeSuckLess/Reactor-for-Houdini), [LightWave](https://gitlab.com/WeSuckLess/Reactor-for-LightWave), and even for VFX/XR/Media production [Pipelines](https://gitlab.com/WeSuckLess/Reactor-for-Pipelines), too.
 
 [![Watch the video](https://img.youtube.com/vi/mklCsf8yOUk/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLVDcRvd92hcgtYFgiiJtWUWEKJH0Op8W9)
 (Click to play the Youtube Video)
@@ -113,7 +113,7 @@ BMD is now appearing to enter and champion a time of rapid adaptation, a time of
 
 ## Will the new Resolve MCP robot chew through the cash in my wallet, along with all of the accessible LLM credits in my accounts fast, and maybe even eat my face, too?
 
-Yes. Maybe.  
+Yes. Maybe. It's early days for sure, though.  
 
 With the new releases shipped at IBC 2026, BMD Resolve Studio v21.1 could be considered an AI-powered DCC environment that works with media formats. That AI tech "lens" helps to redefine what it means to be an artist (or even potentially a faceless YouTube video maker).
 
