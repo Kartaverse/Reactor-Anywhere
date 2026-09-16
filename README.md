@@ -107,9 +107,19 @@ The WeSuckLess&trade; developers, meaning specifically the two-person team behin
 
 ## What happened to BMD and its decade-long post-production software product tiers?
 
-As always, things change. Many students, teachers, retired seniors, NGO volunteers, indie artists, and hobbyists got started with the Freemium tools, then "levelled up" to the excellent paid Studio products as part of their learning journey. 
+As always, things change. Many students, teachers, retired seniors, NGO volunteers, indie artists, and hobbyists got started with the Freemium tools, then "levelled up" to the excellent paid Studio products as part of their learning journey.
 
-The symbiosis of a BMD freemium path that directly led to the paid BMD Studio offerings helped fuel a quite frankly meteoric rise for the software among millions of artists/creators. For better or for worse, the base BMD software product tiers, the unique mix of included features, and the rapid-growth roadmap formula that existed from 2014 to 2024 are no longer guaranteed to exist as a concept.
+The symbiosis of a BMD freemium path that directly led to the paid BMD Studio offerings helped fuel a quite frankly meteoric rise for the software among millions of artists/creators. 
+
+![Resolve Freemium](static/img/Resolve-Freemium.png)
+
+For better or for worse, the base BMD software product tiers, the unique mix of included features, and the rapid-growth roadmap formula that existed from 2014 to 2024 are no longer guaranteed to exist as a concept. 
+
+To be fair, the old model is not going away fully; it's mostly just a process of BMD management going in, and having the individual tools rebalanced between "Free vs Paid" access to adjust for the market realities and competition BMD is facing. 
+
+This change does have a real impact across BMD's very broad user base, with many different priorities and use cases for the software fighting to maintain the precise mixe what capabilities used to exist, only a few days prior to the IBC 2026 trade show in Amsterdam, where Resolve v21.1 arrived on the market.
+
+New internal policies and public messaging were adopted by BMD at that time:
 
 ![Resolve Free v21.1 Note](static/img/The-Wizard-Of-Oz-The-Great-Oz-Has-Spoken.jpg)
 
@@ -117,14 +127,20 @@ BMD is now appearing to enter and champion a time of rapid adaptation, a time of
 
 ## Will the new Resolve MCP robot chew through the cash in my wallet, along with all of the accessible LLM credits in my accounts fast, and maybe even eat my face, too?
 
-Yes. Maybe. It's early days for sure, though.  
+![Resolve Whats New](static/img/Resolve-Whats-New.png)
+
+Yes. Maybe. [It's early days for sure, though](https://digitalproduction.com/2026/09/08/resolve-21-1-adds-mcp-and-finally-gets-presets/#mcp-enters-the-machine-room). Right now you can use the native MCP to interface with ChatGPT Codex and Claude/Claude Code. No local LLM models appear to be supported with the initial MCP toolset. Local AI models might have avoided/lowered the client data leakage level exposure present with 3rd-party cloud-connected LLM vendors.
+
+This situation is a thorny legal issue, where your company and staff risk breaking their film & TV production NDA contracts. Especially, when Resolve does what you ask with the MCP and provides access to locally stored data, and project file metadata to external ML model vendors. These companies often modify their EULA policies for external vendors, the period of user data retention, and whether training happens on customer data.
 
 With the new releases shipped at IBC 2026, BMD Resolve Studio v21.1 could be considered an AI-powered DCC environment that works with media formats. That AI tech "lens" helps to redefine what it means to be an artist (or even potentially a faceless YouTube video maker).
 
-This Resolve Studio v21.1 integrated MCP approach operates with a live remote internet socket that receives and sends messages via a native Resolve [MCP](https://en.wikipedia.org/wiki/List_of_Tron_(franchise)_characters#Master_Control_Program)... oops, that was Tron MCP... I meant an Anthropic [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) interface. You also get a bonus of 20+ GB of AI models to download on the side, too.
+This Resolve Studio v21.1 integrated MCP approach operates with a live remote internet socket that receives and sends messages via a native Resolve [MCP](https://en.wikipedia.org/wiki/List_of_Tron_(franchise)_characters#Master_Control_Program)... oops, that was Tron MCP... I meant an Anthropic [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) interface. You also get a bonus of 20+ GB of AI models to download on the side, too. This means that Resolve Studio can act as an 🤖 AI-augmented "LLM clanker-capable" of fully automatic video editing/grading/deliver pipeline workflows. Heavy users of MCPs can prepare for Resolve usage to become a veritable "[tokenmaxxing](https://en.wikipedia.org/wiki/Workplace_impact_of_artificial_intelligence#Token_maxxing) appliance" in your office.
 
-BMD spent big 💰💰💰 on new ML-driven R&D in Resolve Studio v21.x so users have 150+ pages of novel AI-driven effects, and more. The rapid arrival of a combination of AI video editing/effects, AI-generated audio effects and narration, AI-transcribed closed captions, and AI-controllable compositing / mograph nodal workflows.
+Without a doubt, BMD spent big 💰💰💰 on new ML-driven R&D in Resolve Studio v21.x. Users have 150+ pages of novel AI-driven effects, and more to explore. This makes for the rapid arrival of a combination of AI video editing/effects, AI-generated audio effects and narration, AI-transcribed closed captions, and AI-controllable compositing / mograph nodal workflows.
 
-Resolve Studio is now an 🤖 AI-augmented "LLM clanker-capable" fully automatic video editing/grading/deliver pipeline that is a "[tokenmaxxing](https://en.wikipedia.org/wiki/Workplace_impact_of_artificial_intelligence#Token_maxxing) appliance". It has an integrated AI interface so hungry that it can literally go through a month of ChatGPT Plus credits in a single 40-minute session of AI-assisted video editing. Cautionary posts [like this one](https://forum.blackmagicdesign.com/viewtopic.php?f=21&t=239973#p1233854) on Blackmagic Design's own user forum will become very common as AI usage peaks ever higher.
+Resolve now has an integrated AI interface so hungry for tokens/AI credits that it can literally go through an entire month of pre-paid ChatGPT Plus credits on your first outing with an MCP on your project. And it can do the full consumption of a month of ML account quota in a single 40-minute session of AI-assisted video editing.
+
+Cautionary posts [like this one](https://forum.blackmagicdesign.com/viewtopic.php?f=21&t=239973#p1233854) on Blackmagic Design's own user forum will likely become very common as AI usage peaks ever higher.
 
 ![Resolve MCP Usage](static/img/Resolve-MCP-Hunger.png)
