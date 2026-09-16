@@ -34,7 +34,7 @@ With the upcoming Reactor Anywhere release, it will feel a lot like a supercharg
 
 We want Reactor Anywhere to set a newly improved standard of running smooth-as-butter. That is the major goal for the web-hosted experience, as you navigate your way across the full Reactor user interface.
 
-We plan to take the best parts of the Reactor Classic / Reactor Standalone user interface elements and carry them forward with modern [Progressive Web App (PWA)]https://en.wikipedia.org/wiki/Progressive_web_app) technology.
+We plan to take the best parts of the Reactor Classic / Reactor Standalone user interface elements and carry them forward with modern [Progressive Web App (PWA)](https://en.wikipedia.org/wiki/Progressive_web_app) technology.
 
 Here is what the current Reactor Standalone desktop app user interface looks like for reference: 
 
