@@ -2,7 +2,7 @@
 
 # Reactor Anywhere&trade; v5.0
 
-> Roadmap Draft 1 (2026-09-15)  
+> Reactor Roadmap Draft 1 (2026-09-15)  
 > Written by: [Andrew Hazelden](mailto:andrew@andrewhazelden.com)  
 
 What would it look like if you could have the identical “Reactor Package Manager” user experience but access it purely via a web browser session that still retained the best parts of the Reactor app-like user interface? A design concept emerged for the next evolution of the WSL Fusion Community based [Reactor project](https://gitlab.com/WeSuckLess/Reactor).
@@ -58,11 +58,11 @@ Content:
 - Movies
 - RAW Video Formats
 - Images / Image Sequences
-- 3D Geometry
-- Point Clouds
-- Camera Tracking Data
 - ST Map Warping Templates
-- Roto Shape Data
+- Lens Distort .data
+- Camera Tracking Data .lws, .ase, .ma
+- Point Clouds .lws, .ase, .ma
+- 3D Geometry
 - Resolve:
 	- Projects .dra, .drp
 	- Timelines .drt
@@ -70,12 +70,13 @@ Content:
 	- Grades .drx
 - Fusion:
 	- Composites .comp
+	- Polyline Roto Shape Data .dfsh, .ssf, .fxs, .nuke, .nk
 	- Custom PathMaps
 	- Custom Variable Maps
 	- Custom Toolbars
 	- Custom Guide Grids .guide
 	- Confg Files .fu, .zfu based Menus/Hotkeys/Events/Actions
-	- Fusion Render Manager Queues
+	- Fusion Render Manager Queues .dfq
 
 Mograph:
 - Effects Templates .drfx, .setting
