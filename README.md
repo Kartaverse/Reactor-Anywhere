@@ -95,7 +95,7 @@ Plugins:
 
 ## Why is this Reactor migration to the web even required?
 
-BMD has made it clear at [Resolve v21.1](https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c8) that 3rd-party developers should respect the core tenets of BMD's Freemium/Paid business model. 
+BMD has made it clear at [Resolve v21.1](https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c8) in the release notes literal "Notes" section that 3rd-party developers should respect the core tenets of BMD's Freemium/Paid business model. 
 
 That effectively means we (the Reactor project) will likely need to consider scaling back the use of LuaJIT advanced scripting, UI Manager, Python scripting, PySide, and similar functionality in the Reactor Package Manager's own GUI, and in separate atom packages. 
 
