@@ -5,7 +5,7 @@
 > Roadmap Draft 1 (2026-09-15)  
 > Written by: [Andrew Hazelden](mailto:andrew@andrewhazelden.com)  
 
-What would it look like if you could have the identical “Reactor Package Manager” user experience but access it purely via a web browser session that still had the Reactor app-like user interface? After the literal shock, awe (and honestly, sheer horror) that was IBC 2026's BMD product launches: A design concept emerged for the next evolution of the WSL Fusion Community based [Reactor project](https://gitlab.com/WeSuckLess/Reactor).
+What would it look like if you could have the identical “Reactor Package Manager” user experience but access it purely via a web browser session that still retained the best parts of the Reactor app-like user interface? After the literal shock, awe (and honestly, sheer horror) that was IBC 2026's BMD product launches: A design concept emerged for the next evolution of the WSL Fusion Community based [Reactor project](https://gitlab.com/WeSuckLess/Reactor).
 
 Reactor staff work hard every day in our long-term quest to fully support the ~500K plus active users of the Reactor Package Manager and its included content and learning resources. At the moment, that means supporting the two unique software interfaces used via [Reactor Classic](https://gitlab.com/WeSuckLess/Reactor) / [Reactor Standalone](https://github.com/Kartaverse/Reactor-Standalone). 
 
