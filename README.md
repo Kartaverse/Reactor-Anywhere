@@ -91,3 +91,10 @@ Plugins:
 - OpenFX C++ Plugin Bundle
 - Workflow Integrations / Deliver Page Exporters
 - VST Audio Plugin .vst
+
+# Closing Thoughts
+
+The future for Reactor looks very exciting today.
+
+There is always something new and nifty being prepared in the lab. Thanks for being on this journey with the Reactor team. It really is a global community effort that keeps things moving and creates the magic of the atom packages we all enjoy and build together.
+
