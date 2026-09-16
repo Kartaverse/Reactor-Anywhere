@@ -24,7 +24,11 @@ That original Reactior edition is today known colloquially as "Reactor Classic",
 
 This advanced scripting support was previously a bundled feature in the Freemium Fusion Free v7 to 9.0.2, and Resolve Free v15 to 19.0.3 programs that many students, teachers, retired seniors, NGO volunteers, indie artists, and hobbyists got started with in their learning journey. 
 
-The Symbiosis of a freemium path that led to the paid BMD Studio offerings helped fuel a metoric rise fir the toolset among millions of artists/creators. For better or for worse, the base BMD software product tiers, included features, and the rapid-growth roadmap formula that existed from 2014 to 2024 no longer exists. BMD is now entering a time of rapid adaptation, a time of AI-first pivoting from a key creative software company over to what appearsto be the onset of an AI platform that works with media formats that redefines what it is to be an artist, with access to 150+ pages of AI driven effects, and anew v21.1 shipped AI-augmented LLM clanker-capable automatic video editing/grading/deliver pipeline that is a "tokenmaxing appliance" operating via a native Resolve MCP interface, with abonus of 20+ GB of AI models to download on the side..
+The Symbiosis of a freemium path that led to the paid BMD Studio offerings helped fuel a metoric rise fir the toolset among millions of artists/creators. For better or for worse, the base BMD software product tiers, included features, and the rapid-growth roadmap formula that existed from 2014 to 2024 no longer exists. 
+
+BMD is now appearing to enter and champion a time of rapid adaptation, a time of AI-first pivoting from a key creative software company with a nod to analog motion picture film underpinnings (and BMD Cinetel scanners), over to what appears to be the early onset of an AI platform that works with media formats that redefines what it is to be an artist, (or even potentially a faceless YouTube video maker with Ai video, audio, narration, closed captions, and mograph, too). Resolve spent big in v21.x to add access to 150+ pages of AI driven effects.
+
+Anew release of Resolve Studio v21.1 shipped AI-augmented "LLM 🤖 clanker-capable" fully automatic video editing/grading/deliver pipeline that is a "tokenmaxing appliance". This operates with are remote internet socket that receives and sends messages via a native Resolve MCP interface. you also get with a bonus of 20+ GB of AI models to download on the side, too..
 
 ![Resolve Free v21.1 Note](static/img/The-Wizard-Of-Oz-The-Great-Oz-Has-Spoken.jpg)
 
