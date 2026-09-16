@@ -103,7 +103,7 @@ Plugins:
 
 Want to have your mind blown just a bit further, on all of the new Reactor-Anywhere potential? 🤯
 
-Here is a Google Docs hosted file that explores the fune details around a [Reactor Virtual File Systems (VFS)](https://docs.google.com/document/d/10bFwm9z3_GrPJ0bVEYC1uLdfdumdZ315BKGstSJXFTI/edit?usp=drivesdk) concept. The resource tries to summarize the exciting but technical parts, and explain how we can make Reactor-Anywhere feel just like you are using Google Drive or Apple iCloud.
+Here is a Google Docs hosted file that explores the fune details around a [Reactor Virtual File Systems (VFS)](https://docs.google.com/document/d/10bFwm9z3_GrPJ0bVEYC1uLdfdumdZ315BKGstSJXFTI/edit?usp=drivesdk) concept. The resource tries to summarize the exciting but technical parts, and explain how this community project can make Reactor-Anywhere feel just like you are using Google Drive or Apple iCloud.
 
 # Closing Thoughts
 
