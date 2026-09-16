@@ -22,7 +22,7 @@ Additionally, over the last year and a bit, Reactor's core repository management
 
 The concept behind the new Reactor Anywhere repo effort is to create the next generation of web-browser session-operated Reactor tools with responsive, slick, well-thought-out user interfaces that react automatically to the active device used to view the Reactor web app.
 
-This app redesign process will allow the end user to entirely skip the need to install a [Reactor Standalone](https://github.com/Kartaverse/Reactor-Standalone) desktop application locally on their laptop or workstation. And it further builds on the base 2018 version of Reactor that we all know and love. 
+This app redesign process will allow the end user to entirely skip the need to install a [Reactor Standalone](https://github.com/Kartaverse/Reactor-Standalone) desktop application locally on a laptop or workstation. And it further builds on the base 2018 version of Reactor that we all know and love. 
 
 That original WSL Reactor edition is today known colloquially as "Reactor Classic", as it uses a [Reactor.lua](https://gitlab.com/WeSuckLess/Reactor/-/blob/master/System/Reactor.lua?ref_type=heads) file and the BMD UI Manager API that both require “advanced” LuaJIT scripting capabilities to exist in the host Resolve Studio / Fusion Studio DCC application.
 
@@ -30,7 +30,7 @@ This advanced scripting support was previously a feature in the Freemium Fusion 
 
 ## What will the new Reactor WebUI look like?
 
-With the upcoming Reactor Anywhere release, it will feel a lot like a supercharged, fast, browser based remake of Reactor Standalone's existing UI. Gone are the initial Reactor Standalone beta application's pokey startup times, slow atom package syncing speed, and the extra bit of lag like delays when switching categories and clicking around in the user interface. 
+With the upcoming Reactor Anywhere release, it will feel a lot like a supercharged, fast, browser based remake of Reactor Standalone's existing UI. Gone are the initial Reactor Standalone beta application's pokey startup times, slow atom package syncing speed, and extra lag (short delay) when switching categories and clicking around in the user interface. 
 
 We want Reactor Anywhere to set a newly improved standard of running smooth-as-butter. That is the major goal for the web-hosted experience, as you navigate your way across the full Reactor user interface.
 
@@ -57,47 +57,47 @@ A special Reactor Anywhere compatible version of the "[KAS shaders](https://kart
 The new JSON-based Reactor atom package will allow you install file formats like:
 
 Content:
-- Macros .setting
-- DCTLs .dctl
+- Macros (.setting)
+- DCTLs (.dctl)
 - LUTS
 - Audio
 - Movies
 - RAW Video Formats
 - Images / Image Sequences
 - ST Map Warping Templates
-- Lens Distort .data
-- Camera Tracking Data .lws, .ase, .ma
-- Point Clouds .lws, .ase, .ma
+- Lens Distort (.data)
+- Camera Tracking Data (.lws, .ase, .ma)
+- Point Clouds (.lws, .ase, .ma)
 - 3D Geometry
 - Resolve:
-	- Projects .dra, .drp
-	- Timelines .drt
-	- Bins .drb
-	- Grades .drx
+	- Projects (.dra, .drp)
+	- Timelines (.drt)
+	- Bins (.drb)
+	- Grades (.drx)
 - Fusion:
-	- Composites .comp
-	- Polyline Roto Shape Data .dfsh, .ssf, .fxs, .nuke, .nk
+	- Composites (.comp)
+	- Polyline Roto Shape Data (.dfsh, .ssf, .fxs, .nuke, .nk)
 	- Custom PathMaps
 	- Custom Variable Maps
 	- Custom Toolbars
 	- Custom Guide Grids .guide
-	- Confg Files .fu, .zfu based Menus/Hotkeys/Events/Actions
-	- Fusion Render Manager Queues .dfq
+	- Confg Files (.fu, .zfu) based Menus/Hotkeys/Events/Actions
+	- Fusion Render Manager Queues (.dfq)
 
 Mograph:
-- Effects Templates .drfx, .setting
-- OGraf .json
-- Lottie .lottie
-- Fonts .ttf, etc…
-- JSON .json, .jsonc
-- Spreadsheets .csv, .tsv, .xls, etc.
+- Effects Templates (.drfx, .setting)
+- OGraf (.json)
+- Lottie (.lottie)
+- Fonts (.ttf, etc…)
+- JSON (.json, .jsonc)
+- Spreadsheets (.csv, .tsv, .xls, etc.)
 
 Plugins:
-- Fuses .fuse
-- FusionSDK C+ .plugin
+- Fuses (.fuse)
+- FusionSDK C+ (.plugin)
 - OpenFX C++ Plugin Bundle
 - Workflow Integrations / Deliver Page Exporters
-- VST Audio Plugin .vst
+- VST Audio Plugin (.vst)
 
 # Reactor File System
 
