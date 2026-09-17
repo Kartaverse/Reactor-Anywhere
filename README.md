@@ -48,7 +48,7 @@ You can download your favourite packaged content. Then the "Files" app will allo
 
 ![Resolve on iPad](static/img/Resolve-on-iPad.jpg)
 
-A special Reactor Anywhere compatible version of the "[KAS shaders](https://kartaverse.github.io/Reactor-Docs/#/com.wesuckless.KickAssShaderZ?id=kickass-shaderz)" atom package is also being prepared so it can run in a modified form on "Resolve Studio v21 for iPad". This finally brings the classic material library to tablet-based 3D artists. To help support the rollout of the KAS shaders on iPad, here is a draft copy of the Reactor-Anywhere for iPad "[Atomz Package User’s Guide](https://docs.google.com/document/d/13DvFL55PZQ85jfIDDGERpa2hAaThXyuqCQNMt4mKfUQ/edit?usp=drivesdk)". The KAS for iPad initial release is planned for the end of this week.
+A special Reactor Anywhere compatible version of the "[KAS shaders](https://kartaverse.github.io/Reactor-Docs/#/com.wesuckless.KickAssShaderZ?id=kickass-shaderz)" atom package is also being prepared so it can run in a modified form on "Resolve Studio v21 for iPad". This finally brings the classic material library to tablet-based 3D artists. To help support the rollout of the KAS shaders on iPad, here is a draft copy of the Reactor-Anywhere for iPad [Atomz Package User’s Guide](https://docs.google.com/document/d/13DvFL55PZQ85jfIDDGERpa2hAaThXyuqCQNMt4mKfUQ/edit?usp=drivesdk). The KAS for iPad initial release is planned for tomorrow (pending the actual time availability on the dayto manage the launch effort 🚀).
 
 ![KickAssShaderZ on iPad](static/img/KickAssShaderZ_on_iPad.jpg)
 
